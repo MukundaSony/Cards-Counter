@@ -29,8 +29,8 @@ The **Cards Counter** is a simple web-based application that helps in counting t
 - Click on any card to mark it as **played**.
 - Click the reset button to clear all selections.
 
-## 🖼 Demo
-![Cards Counter Demo](demo-image-url)
+## 🖼 Website Link
+[click here](https://mukundasony.github.io/Cards-Counter/)
 
 ## 🤝 Contributing
 Feel free to contribute by submitting issues or creating pull requests.
